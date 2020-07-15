@@ -1,0 +1,13 @@
+c:\Users\mathi\project\esgi\c#\ESGI.DesignPattern.Projet\ESGI.DesignPattern.Projet\bin\Debug\netcoreapp3.1\ESGI.DesignPattern.Projet.exe
+c:\Users\mathi\project\esgi\c#\ESGI.DesignPattern.Projet\ESGI.DesignPattern.Projet\bin\Debug\netcoreapp3.1\ESGI.DesignPattern.Projet.deps.json
+c:\Users\mathi\project\esgi\c#\ESGI.DesignPattern.Projet\ESGI.DesignPattern.Projet\bin\Debug\netcoreapp3.1\ESGI.DesignPattern.Projet.runtimeconfig.json
+c:\Users\mathi\project\esgi\c#\ESGI.DesignPattern.Projet\ESGI.DesignPattern.Projet\bin\Debug\netcoreapp3.1\ESGI.DesignPattern.Projet.runtimeconfig.dev.json
+c:\Users\mathi\project\esgi\c#\ESGI.DesignPattern.Projet\ESGI.DesignPattern.Projet\bin\Debug\netcoreapp3.1\ESGI.DesignPattern.Projet.dll
+c:\Users\mathi\project\esgi\c#\ESGI.DesignPattern.Projet\ESGI.DesignPattern.Projet\bin\Debug\netcoreapp3.1\ESGI.DesignPattern.Projet.pdb
+c:\Users\mathi\project\esgi\c#\ESGI.DesignPattern.Projet\ESGI.DesignPattern.Projet\obj\Debug\netcoreapp3.1\ESGI.DesignPattern.Projet.csprojAssemblyReference.cache
+c:\Users\mathi\project\esgi\c#\ESGI.DesignPattern.Projet\ESGI.DesignPattern.Projet\obj\Debug\netcoreapp3.1\ESGI.DesignPattern.Projet.AssemblyInfoInputs.cache
+c:\Users\mathi\project\esgi\c#\ESGI.DesignPattern.Projet\ESGI.DesignPattern.Projet\obj\Debug\netcoreapp3.1\ESGI.DesignPattern.Projet.AssemblyInfo.cs
+c:\Users\mathi\project\esgi\c#\ESGI.DesignPattern.Projet\ESGI.DesignPattern.Projet\obj\Debug\netcoreapp3.1\ESGI.DesignPattern.Projet.csproj.CoreCompileInputs.cache
+c:\Users\mathi\project\esgi\c#\ESGI.DesignPattern.Projet\ESGI.DesignPattern.Projet\obj\Debug\netcoreapp3.1\ESGI.DesignPattern.Projet.dll
+c:\Users\mathi\project\esgi\c#\ESGI.DesignPattern.Projet\ESGI.DesignPattern.Projet\obj\Debug\netcoreapp3.1\ESGI.DesignPattern.Projet.pdb
+c:\Users\mathi\project\esgi\c#\ESGI.DesignPattern.Projet\ESGI.DesignPattern.Projet\obj\Debug\netcoreapp3.1\ESGI.DesignPattern.Projet.genruntimeconfig.cache

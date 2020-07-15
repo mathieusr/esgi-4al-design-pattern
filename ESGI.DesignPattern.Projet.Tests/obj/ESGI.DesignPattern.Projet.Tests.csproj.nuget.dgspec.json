@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\mathi\\project\\esgi\\c#\\ESGI.DesignPattern.Projet\\ESGI.DesignPattern.Projet.Tests\\ESGI.DesignPattern.Projet.Tests.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\mathi\\project\\esgi\\c#\\ESGI.DesignPattern.Projet\\ESGI.DesignPattern.Projet.Tests\\ESGI.DesignPattern.Projet.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\mathi\\project\\esgi\\c#\\ESGI.DesignPattern.Projet\\ESGI.DesignPattern.Projet.Tests\\ESGI.DesignPattern.Projet.Tests.csproj",
+        "projectName": "ESGI.DesignPattern.Projet.Tests",
+        "projectPath": "c:\\Users\\mathi\\project\\esgi\\c#\\ESGI.DesignPattern.Projet\\ESGI.DesignPattern.Projet.Tests\\ESGI.DesignPattern.Projet.Tests.csproj",
+        "packagesPath": "C:\\Users\\mathi\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\mathi\\project\\esgi\\c#\\ESGI.DesignPattern.Projet\\ESGI.DesignPattern.Projet.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mathi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "c:\\Users\\mathi\\project\\esgi\\c#\\ESGI.DesignPattern.Projet\\ESGI.DesignPattern.Projet\\ESGI.DesignPattern.Projet.csproj": {
+                "projectPath": "c:\\Users\\mathi\\project\\esgi\\c#\\ESGI.DesignPattern.Projet\\ESGI.DesignPattern.Projet\\ESGI.DesignPattern.Projet.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.6.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.console": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\mathi\\project\\esgi\\c#\\ESGI.DesignPattern.Projet\\ESGI.DesignPattern.Projet\\ESGI.DesignPattern.Projet.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\mathi\\project\\esgi\\c#\\ESGI.DesignPattern.Projet\\ESGI.DesignPattern.Projet\\ESGI.DesignPattern.Projet.csproj",
+        "projectName": "ESGI.DesignPattern.Projet",
+        "projectPath": "c:\\Users\\mathi\\project\\esgi\\c#\\ESGI.DesignPattern.Projet\\ESGI.DesignPattern.Projet\\ESGI.DesignPattern.Projet.csproj",
+        "packagesPath": "C:\\Users\\mathi\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\mathi\\project\\esgi\\c#\\ESGI.DesignPattern.Projet\\ESGI.DesignPattern.Projet\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mathi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
